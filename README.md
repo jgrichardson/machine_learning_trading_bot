@@ -18,21 +18,21 @@ This application also includes a report below that compares the performance of t
 
 Cumulative return plot that shows the actual returns vs. the strategy returns.
 
-INSERT BASELINE PLOT AS A PNG HERE
-
+![Bseline](images/baseline.png)
 
 
 ### Results from Changing the Training Window Timeframe
 
+![6 Month Window Bseline](images/6mo_baseline.png)
+
 What impact resulted from increasing or decreasing the training window?
-
-
 
 
 ### Results from Changing the SMA Windows
 
-What impact resulted from increasing or decreasing either or both of the SMA windows?
+![SMA 50/200 Bseline](images/sma_50_200_baseline.png)
 
+What impact resulted from increasing or decreasing either or both of the SMA windows?
 
 
 
@@ -41,10 +41,13 @@ What impact resulted from increasing or decreasing either or both of the SMA win
 
 INSERT HERE -- PNG image of the cumulative product of the actual returns vs. the strategy returns for this updated trading algorithm
 
+![LG Bseline](images/lg-baseline.png)
+
 Did this new model perform better or worse than the provided baseline model? 
 
-
 Did this new model perform better or worse than your tuned trading algorithm?
+
+
 
 ### Summary Evaluation Report
 
